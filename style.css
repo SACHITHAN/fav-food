@@ -1,0 +1,94 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color:grey;
+}
+.container{
+    background-color: grey;
+    width: 100vw;
+    height: 140vh;
+    display: flex;
+    flex-direction: column;
+    margin: 20px 0 20px 0;
+}
+.div-1{
+    background-color: WHITE;
+    width: 80vw;
+    height:35vh;
+    border: 10px solid white;
+    text-align: center;
+    font: size 4.5em; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: beige;
+    
+
+
+}
+.div-1 h1{
+    position: absolute;
+    
+}
+.div-2{
+    background-color:orange;
+    width:80vw;
+    height:35vh;
+    border: 10px solid white;
+    text-align: center;
+    font-size:0.7m ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+
+    
+}
+.div-3{
+    background-color: purple;
+    width: 80vw;
+    height:35vh;
+    border: 10px solid white;
+    display: flex;
+    font-size:0.7em;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.div-4{
+    background-color:rgb(40, 106, 144);
+    width: 80vw;
+    height:35vh;
+    border: 10px solid white;
+    display: flex;
+    font-size:0.7em;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+   
+}
+.image{
+    height:35vh;
+    width:80vw ;
+}
+.image1{
+    height:20vh;
+    width:30vw ;
+}
+.image2{
+    
+    height:20vh;
+    width:30vw ;
+}
+.image3{
+   
+    height:20vh;
+    width:30vw;
+}
